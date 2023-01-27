@@ -1,0 +1,15 @@
+.navbar-brand {
+	font-weight: bold;
+	font-size: 20px;
+}
+.navbar .navbar-nav.navbar-uppercase > li > a {
+	font-size: 14px;
+}
+
+.text-black {
+	color: #777;
+}
+
+.img-logo {
+	width: 60px;
+}
